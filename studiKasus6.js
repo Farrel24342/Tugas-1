@@ -5,5 +5,5 @@ for (let i = 0; i < umur.length; i++) {
         console.log(`Umur ke-${umur[i]}: Boleh Masuk`);
     } else {
         console.log(`Umur ke-${umur[i]}: Tidak Boleh Masuk`);
-    }  
+    }
 }
