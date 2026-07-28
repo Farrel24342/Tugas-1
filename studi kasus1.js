@@ -1,5 +1,5 @@
 const nama = "Budi";
-const umur = 20;
+const umur = "20";
 
 const hargaBarang = [12000, 15000, 8000, 5000];
 
@@ -21,7 +21,8 @@ if (totalBelanja > 30000) {
 }
 
 
-console.log(`Nama : ${nama}`);
-console.log(`Umur : ${umur}`);
-console.log(`Total Belanja : ${totalBelanja}`);
-console.log(`Status : ${statusDiskon}`);
+console.log(`nama : ${nama}`);
+console.log(`umur : ${umur}`);
+console.log(`total Belanja : ${totalBelanja}`);
+console.log(`status : ${statusDiskon}`);
+//newogjeogfjeogfkeoekg[kao[pek]]
